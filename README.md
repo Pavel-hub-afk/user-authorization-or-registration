@@ -3,7 +3,7 @@
 
 ## Используемые библиотеки:
 - database/sql
-- github.com/lib/pq - драйвер для работы с PostgreSQL
+- [github.com/lib/pq](https://github.com/lib/pq) - драйвер для работы с PostgreSQL
   
 ## DataBase:
 - PostgreSQL 
